@@ -1,0 +1,1 @@
+# as-bellini-component
